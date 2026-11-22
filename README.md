@@ -1,5 +1,7 @@
 # Management APIs and coordination — BRACKEN Engineering Guide
 
+> BRACKEN management APIs and coordination for node identity, desired configuration, policy rollout, observed state, and audit.
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Control Plane
