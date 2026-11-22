@@ -2,6 +2,8 @@
 
 > BRACKEN management APIs and coordination for node identity, desired configuration, policy rollout, observed state, and audit.
 
+> Contributor guide: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 > **Status:** Early-stage design and implementation. This guide expands the intended repository scope; verify the code and release notes before relying on any described capability.
 
 # BRACKEN Control Plane
